@@ -1,0 +1,6 @@
+div a{
+    margin-left: 10px;
+}
+div a.active{
+    color: red;
+}
